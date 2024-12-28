@@ -1,0 +1,7 @@
+{
+    // Watch: https://github.com/DavidAnson/markdownlint?tab=readme-ov-file#rules--aliases
+    "MD013": {
+        "line_length": 90
+    },
+    "MD041": false
+}
