@@ -12,3 +12,8 @@ logs
 .cache
 
 *.pdf
+
+# Jekyll
+vendor
+_site
+.jekyll-cache
