@@ -17,3 +17,11 @@ logs
 vendor
 _site
 .jekyll-cache
+
+# 個人情報を含むファイルを除外
+docs/README.md
+docs/README.pdf
+
+# Google Drive API credentials
+service-account.json
+.env
